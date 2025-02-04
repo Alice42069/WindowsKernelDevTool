@@ -1,2 +1,2 @@
 # WindowsKernelDevTool
-A list of windows kernel dev tools I found since many were taken down
+It includeds Visual Studio 2019 and older versions of WDK and Win SDK
